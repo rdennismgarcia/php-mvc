@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>PHP MVC Framework</title>
+    <link type="text/css" rel="stylesheet" href="<?=URLROOT?>assets/css/style.css">
   </head>
   <body>
     <h2>PHP MVC Framework</h2>
