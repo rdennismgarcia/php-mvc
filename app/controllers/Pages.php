@@ -15,7 +15,7 @@ class Pages extends Controller
 
     public function Index($slug = null)
     {
-        $this->view('pages/index');
+        $this->view('pages/home');
         
     }
 }
