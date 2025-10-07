@@ -80,12 +80,12 @@ This will generate a model file inside the `models` directory, ready for you to 
 ```
 app/
 ├─ controllers/
-│  └─ Home.php
+│  └─ Pages.php
 ├─ models/
-│  └─ User.php
+│  └─ Page.php
 ├─ views/
-│  └─ home/
-│     └─ index.php
+│  └─ pages/
+│     └─ home.php
 core/
 ├─ Controller.php
 ├─ Model.php
