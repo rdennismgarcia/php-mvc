@@ -3,6 +3,7 @@
 A lightweight and customizable **PHP MVC (Model-View-Controller)** framework built for clean architecture, rapid development, and scalability. It provides a simple yet powerful structure to help you build modern web applications with minimal setup.
 
 👉 [View on GitHub](https://github.com/rdennismgarcia/php-mvc)
+👉 [View Live Demo](http://demo.strativohq.com/php-mvc/)
 
 ---
 
